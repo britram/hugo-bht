@@ -6,17 +6,17 @@ date = "2016-12-12"
 title = "PathSpider"
 
 # Project summary to display on homepage.
-summary = "Active measurement for Internet path transparency to new protocol features"
+summary = "A tool for active measurement of Internet path transparency"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "boards.jpg"
+image_preview = "pathspider.png"
 
 # Optional image to display on project detail page (relative to `static/img/` folder).
 image = ""
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["internet-measurement"]
+tags = ["measurement"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = "https://pathspider.net"
@@ -26,3 +26,4 @@ math = false
 
 +++
 
+For the evolution of the protocol stack, it is important to know which network impairments exist and potentially need to be worked around. While classical network measurement tools are often focused on absolute performance values, PATHspider performs A/B testing between two different protocols or different protocol extensions to perform controlled experiments of protocol-dependent connectivity problems as well as differential treatment.
