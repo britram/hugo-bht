@@ -1,0 +1,46 @@
+---
+title: A Media Policy for the 17th Century
+author: brian
+layout: post
+date: 2013-12-11T14:59:31+00:00
+url: /2013/12/a-media-policy-for-the-17th-century/
+categories:
+  - Geekery
+  - News
+  - Switzerland
+
+---
+I&#8217;ve been reading [Tom Standage][1]&#8216;s &#8220;[Writing on the Wall][2]&#8221; of late, which I can heartily recommend. It&#8217;s less subtle than &#8220;[The Victorian Internet][3]&#8220;, which counts among my favorite books of all time, but that was written before Twitter, and Twitter&#8217;s made us all less subtle, I think. What strikes me about his new book is not his thesis — that the &#8220;social media revolution&#8221; is nothing really new, just the application of new technology to our apparently instinctive love of gossip — but how well it illustrates that much of the present public policy debate over new media technology is very, very old.<!--more-->
+
+Here I refer to [AGUR12][4], a recently concluded working group on copyright in Switzerland. The working group was convened ensure equitability and efficiency in collective copyright management schemes, but discussed wider issues around the intersection of new media technology and _Urheberrecht<sup>1 </sup>_as well. The effort<span style="line-height: 1.5;"> <a href="http://www.20min.ch/schweiz/news/story/16017844">made headlines</a> in 20 Minutes a couple of days ago (&#8220;Like Watching Television in the Last Millennium&#8221;), when the state-sponsored broadcaster suggested banning time-shifting television because it would threaten their advertising revenues. </span>Setting aside the fact that the [state-sponsored broadcaster][5] is already richly funded by a [I&#8217;ve been reading [Tom Standage][1]&#8216;s &#8220;[Writing on the Wall][2]&#8221; of late, which I can heartily recommend. It&#8217;s less subtle than &#8220;[The Victorian Internet][3]&#8220;, which counts among my favorite books of all time, but that was written before Twitter, and Twitter&#8217;s made us all less subtle, I think. What strikes me about his new book is not his thesis — that the &#8220;social media revolution&#8221; is nothing really new, just the application of new technology to our apparently instinctive love of gossip — but how well it illustrates that much of the present public policy debate over new media technology is very, very old.<!--more-->
+
+Here I refer to [AGUR12][4], a recently concluded working group on copyright in Switzerland. The working group was convened ensure equitability and efficiency in collective copyright management schemes, but discussed wider issues around the intersection of new media technology and _Urheberrecht<sup>1 </sup>_as well. The effort<span style="line-height: 1.5;"> <a href="http://www.20min.ch/schweiz/news/story/16017844">made headlines</a> in 20 Minutes a couple of days ago (&#8220;Like Watching Television in the Last Millennium&#8221;), when the state-sponsored broadcaster suggested banning time-shifting television because it would threaten their advertising revenues. </span>Setting aside the fact that the [state-sponsored broadcaster][5] is already richly funded by a][6] compulsory [licensing scheme][7], which one would hope would make advertising unnecessary, this was already an obviously stupid idea the first time I heard it from Turner Broadcasting&#8217;s chief of programming back in 1999.
+
+The question of how artists and creators should be compensated for their work in light of the fairly complex ecosystem of mass- and not-so-mass media,  the giant remixing of inspiration and product that we call &#8220;culture&#8221;, and the effect of technologies that reduce the effects of scarcity in the economy of information, is a very complicated one which I don&#8217;t really have a deep grasp on. The history of technology would seem to suggest that the future holds a fair amount of continued disintermediation, as publishers who used to be necessary either find a new niche from which to provide value, or die trying. I applaud AGUR12 for attempting to answer small slices of this question.
+
+But t<span style="line-height: 1.5;">he working group lacked any representation from organizations with significant Internet expertise, and this is reflected in their </span><a style="line-height: 1.5;" href="https://www.ige.ch/fileadmin/user_upload/Urheberrecht/e/Schlussbericht_der_AGUR12_Empfehlungen_EN.pdf">recommendations</a> <span style="line-height: 1.5;">concerning the Internet, which range the gamut from incredibly dangerous to merely completely infeasible.</span>
+
+Recommendation 9.3.5. &#8220;Data Processing&#8221; is the most patently offensive, as it would allow &#8220;[r]ights holders&#8221; (read: movie studios, record labels, other dying media industries, and the collective organizations that represent them) to &#8220;process internet connection data (in particular, dynamic and static IP addresses) for the purposes of investigating copyright infringement&#8230;&#8221; By &#8220;connection data&#8221; they presumably mean at minimum a set of records describing which customers contact which servers. This requires in-band passive monitoring. So, a more sensationalist yet technically accurate way to frame this recommendation is that the Working Group wants Hollywood to be able to spy on your network connection the same way the NSA does. Setting aside how difficult and expensive this would be — building monitoring infrastructures is hard work — it does not seem to be compatible with the most basic principles of privacy protection, and frankly seems a bit tone-deaf to recommend in a post-Snowden world.
+
+Less dangerous but still impractical is Recommendation 9.3.4, which would require operators to &#8220;block access to web portals that feature obvious illegal sources by means of IP and DNS blocking&#8221;. DNS blocking would break [DNSSEC][8] and is therefore impossible if you want DNS integrity (which, trust me, you do). This is one of the things that killed PIPA. IP blocking drastically increases the costs of network operations and network security, and, in a world where &#8220;illegal content&#8221; moves around dynamically, ineffective.
+
+At least the Working Group seems to recognize there is a problem here with the next sentence: &#8220;&#8230;blocking measures&#8230;may not compromise the technical functionality of the IP or DNS system,&#8221; This is a plain contradiction that nullifies the rest of the recommendation. The working group also attempts to address the inherent cost externalization problem with &#8220;rights owners must adequately compensate access providers for the costs incurred for blocking access,&#8221; which, given the costs involved, practically nullifies the recommendation again.
+
+Were these two recommendations put into law, they would represent a significant competitive disadvantage for the Swiss Internet industry as a whole, and the entire ecosystem of communications innovation built around it, as the &#8220;rights holder&#8221; organizations effectively externalized the costs of propping its business model up onto the network operations community. This represents <span style="line-height: 1.5;">same old backward-looking business-model protectionism that, in the United States, gave us the </span><a style="line-height: 1.5;" href="http://en.wikipedia.org/wiki/Protests_against_SOPA_and_PIPA">doomed</a><a style="line-height: 1.5;" href="http://en.wikipedia.org/wiki/Stop_Online_Piracy_Act">SOPA</a> <span style="line-height: 1.5;">and </span><a style="line-height: 1.5;" href="http://en.wikipedia.org/wiki/PROTECT_IP_Act">PIPA</a> <span style="line-height: 1.5;">efforts. </span>
+
+Standage&#8217;s book has given me new appreciation for how long this tradition of legal attempts to[ restrict innovation][9] in media technology is: it is as old as literacy itself. While in the past these have had an aspect of [political control][10] as well as [revenue][11] [protection][12], present attempts to legally enshrine particular business models for the dissemination of arts and entertainment are just as inappropriate in a free society, especially as they threaten the technical underpinnings of our most successful communications technologies. I should hope that such foolishness will eventually fall onto history&#8217;s ash heap, just as the licensing of presses and stamp taxes of the past have.
+
+<span style="line-height: 1.5;">[1] Literally, &#8220;the rights of authors&#8221;, but more generally &#8220;intellectual property law&#8221;, whether the rights are held by their authors or not.</span>
+
+ [1]: http://tomstandage.wordpress.com/
+ [2]: http://www.amazon.com/Writing-Wall-Social-Media-First/dp/1620402831
+ [3]: http://www.amazon.com/Victorian-Internet-Remarkable-Nineteenth--line/dp/0802716040/
+ [4]: https://www.ige.ch/en/copyright/agur12.html
+ [5]: http://www.srg.ch/
+ [6]: http://www.gebuehrenmonster.ch/
+ [7]: http://www.billag.ch/web/de/home.html
+ [8]: http://www.icann.org/en/about/learning/factsheets/dnssec-qaa-09oct08-en.htm
+ [9]: http://en.wikipedia.org/wiki/Licensing_of_the_Press_Act_1662
+ [10]: http://en.wikipedia.org/wiki/Stamp_Act_1765
+ [11]: http://en.wikipedia.org/wiki/History_of_copyright_law#Early_French_copyright_law
+ [12]: http://en.wikipedia.org/wiki/Stationers%27_Company#History
