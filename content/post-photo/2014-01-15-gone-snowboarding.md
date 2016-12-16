@@ -4,7 +4,7 @@ author: brian
 layout: post
 date: 2014-01-15T16:15:53+00:00
 url: /2014/01/gone-snowboarding/
-categories:
+tags:
   - Photography
 format: image
 

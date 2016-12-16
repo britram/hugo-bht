@@ -4,7 +4,7 @@ author: brian
 layout: post
 date: 2011-04-18T20:59:24+00:00
 url: /2011/04/stein-am-rhein/
-categories:
+tags:
   - Photography
 
 ---

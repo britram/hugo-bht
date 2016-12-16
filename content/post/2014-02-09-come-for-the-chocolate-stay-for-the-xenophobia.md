@@ -4,7 +4,7 @@ author: brian
 layout: post
 date: 2014-02-09T20:22:40+00:00
 url: /2014/02/come-for-the-chocolate-stay-for-the-xenophobia/
-categories:
+tags:
   - News
   - Nonfiction
   - Switzerland

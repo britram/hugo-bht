@@ -4,7 +4,7 @@ author: brian
 layout: post
 date: 2014-02-23T18:44:03+00:00
 url: /2014/02/and-the-cycling-season-begins-again/
-categories:
+tags:
   - Photography
   - Switzerland
 

@@ -4,7 +4,7 @@ author: brian
 layout: post
 date: 2014-11-15T01:10:33+00:00
 url: /2014/11/iab-statement-on-internet-confidentiality/
-categories:
+tags:
   - Geekery
   - News
 format: link

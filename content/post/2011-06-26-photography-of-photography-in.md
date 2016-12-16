@@ -4,7 +4,7 @@ author: brian
 layout: post
 date: 2011-06-26T07:40:49+00:00
 url: /2011/06/photography-of-photography-in/
-categories:
+tags:
   - Photography
 
 ---

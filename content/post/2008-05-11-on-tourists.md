@@ -10,7 +10,7 @@ blogger_author:
   - Brian
 blogger_permalink:
   - /2008/05/on-tourists.html
-categories:
+tags:
   - My Ridiculously Circuitous Plan
 
 ---

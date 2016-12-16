@@ -10,7 +10,7 @@ blogger_author:
   - Brian
 blogger_permalink:
   - /2008/07/beginning-of-end-of-beginning.html
-categories:
+tags:
   - My Ridiculously Circuitous Plan
 
 ---

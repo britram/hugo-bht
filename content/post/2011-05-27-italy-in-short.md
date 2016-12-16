@@ -4,7 +4,7 @@ author: brian
 layout: post
 date: 2011-05-27T10:06:34+00:00
 url: /2011/05/italy-in-short/
-categories:
+tags:
   - Photography
 
 ---

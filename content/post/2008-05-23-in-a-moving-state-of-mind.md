@@ -10,7 +10,7 @@ blogger_author:
   - Brian
 blogger_permalink:
   - /2008/05/in-moving-state-of-mind.html
-categories:
+tags:
   - My Ridiculously Circuitous Plan
 
 ---

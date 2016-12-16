@@ -10,7 +10,7 @@ blogger_author:
   - Brian
 blogger_permalink:
   - /2008/08/its-little-differences-really-part-two.html
-categories:
+tags:
   - My Ridiculously Circuitous Plan
 
 ---

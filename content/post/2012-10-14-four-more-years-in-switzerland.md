@@ -4,7 +4,7 @@ author: brian
 layout: post
 date: 2012-10-14T19:04:52+00:00
 url: /2012/10/four-more-years-in-switzerland/
-categories:
+tags:
   - Nonfiction
 
 ---

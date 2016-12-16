@@ -10,7 +10,7 @@ blogger_author:
   - Brian
 blogger_permalink:
   - /2008/04/once-more-onto-blog.html
-categories:
+tags:
   - My Ridiculously Circuitous Plan
 
 ---

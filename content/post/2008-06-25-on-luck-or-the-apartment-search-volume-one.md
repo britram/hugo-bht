@@ -10,7 +10,7 @@ blogger_author:
   - Brian
 blogger_permalink:
   - /2008/06/on-luck-or-apartment-search-volume-one.html
-categories:
+tags:
   - My Ridiculously Circuitous Plan
 
 ---

@@ -4,7 +4,7 @@ author: brian
 layout: post
 date: 2011-03-10T12:43:16+00:00
 url: /2011/03/die-hauptstadt-der-vergangenheit/
-categories:
+tags:
   - Nonfiction
 
 ---

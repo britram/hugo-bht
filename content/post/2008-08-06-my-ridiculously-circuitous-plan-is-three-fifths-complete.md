@@ -10,7 +10,7 @@ blogger_author:
   - Brian
 blogger_permalink:
   - /2008/08/my-ridiculously-circuitous-plan-is.html
-categories:
+tags:
   - My Ridiculously Circuitous Plan
 
 ---

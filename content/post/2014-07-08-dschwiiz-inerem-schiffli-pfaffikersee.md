@@ -4,7 +4,7 @@ author: brian
 layout: post
 date: 2014-07-08T20:14:33+00:00
 url: /2014/07/dschwiiz-inerem-schiffli-pfaffikersee/
-categories:
+tags:
   - Kayaking
   - Switzerland
 

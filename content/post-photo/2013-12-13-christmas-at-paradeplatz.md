@@ -4,7 +4,7 @@ author: brian
 layout: post
 date: 2013-12-13T17:00:20+00:00
 url: /2013/12/christmas-at-paradeplatz/
-categories:
+tags:
   - Photography
   - Switzerland
 format: image

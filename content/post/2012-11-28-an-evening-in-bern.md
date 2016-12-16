@@ -4,7 +4,7 @@ author: brian
 layout: post
 date: 2012-11-28T00:38:06+00:00
 url: /2012/11/an-evening-in-bern/
-categories:
+tags:
   - Geekery
   - Switzerland
 

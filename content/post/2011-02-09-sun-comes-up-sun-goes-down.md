@@ -4,7 +4,7 @@ author: brian
 layout: post
 date: 2011-02-09T10:48:05+00:00
 url: /2011/02/sun-comes-up-sun-goes-down/
-categories:
+tags:
   - Photography
 
 ---

@@ -4,7 +4,7 @@ author: brian
 layout: post
 date: 2011-06-11T16:27:49+00:00
 url: /2011/06/on-the-common-industrial-policy-part-one/
-categories:
+tags:
   - Fiction
 
 ---

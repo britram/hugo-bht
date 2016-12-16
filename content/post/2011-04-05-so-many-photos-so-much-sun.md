@@ -4,7 +4,7 @@ author: brian
 layout: post
 date: 2011-04-05T07:05:38+00:00
 url: /2011/04/so-many-photos-so-much-sun/
-categories:
+tags:
   - Photography
 
 ---

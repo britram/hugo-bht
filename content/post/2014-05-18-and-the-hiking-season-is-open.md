@@ -4,7 +4,7 @@ author: brian
 layout: post
 date: 2014-05-18T17:38:42+00:00
 url: /2014/05/and-the-hiking-season-is-open/
-categories:
+tags:
   - Photography
 format: image
 

@@ -10,7 +10,7 @@ blogger_author:
   - Brian
 blogger_permalink:
   - /2008/08/hills-are-alive-with-sound-of-spiders.html
-categories:
+tags:
   - My Ridiculously Circuitous Plan
 
 ---

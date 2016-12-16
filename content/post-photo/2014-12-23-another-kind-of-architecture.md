@@ -4,7 +4,7 @@ author: brian
 layout: post
 date: 2014-12-23T16:28:34+00:00
 url: /2014/12/another-kind-of-architecture/
-categories:
+tags:
   - Photography
 format: image
 

@@ -4,7 +4,7 @@ author: brian
 layout: post
 date: 2013-10-03T12:29:08+00:00
 url: /2013/10/the-impeachment-of-barack-obama/
-categories:
+tags:
   - News
   - Nonfiction
 

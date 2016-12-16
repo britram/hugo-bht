@@ -4,7 +4,7 @@ author: brian
 layout: post
 date: 2012-10-25T08:16:44+00:00
 url: /2012/10/talk-the-open-internet-under-threat/
-categories:
+tags:
   - Geekery
   - Switzerland
 

@@ -4,7 +4,7 @@ author: brian
 layout: post
 date: 2014-02-15T10:41:05+00:00
 url: /2014/02/on-vandalist-politics/
-categories:
+tags:
   - News
   - Nonfiction
   - Switzerland

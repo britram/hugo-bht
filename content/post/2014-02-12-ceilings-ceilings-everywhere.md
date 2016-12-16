@@ -4,7 +4,7 @@ author: brian
 layout: post
 date: 2014-02-12T08:34:46+00:00
 url: /2014/02/ceilings-ceilings-everywhere/
-categories:
+tags:
   - Nonfiction
 format: aside
 

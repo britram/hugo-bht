@@ -4,7 +4,7 @@ author: brian
 layout: post
 date: 2011-05-27T12:30:23+00:00
 url: /2011/05/follow-the-money/
-categories:
+tags:
   - Geekery
 
 ---

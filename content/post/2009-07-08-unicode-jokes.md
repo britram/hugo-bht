@@ -10,7 +10,7 @@ blogger_author:
   - Brian
 blogger_permalink:
   - /2009/07/unicode-jokes.html
-categories:
+tags:
   - Geekery
   - Switzerland
 

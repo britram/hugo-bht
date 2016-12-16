@@ -10,7 +10,7 @@ blogger_author:
   - Brian
 blogger_permalink:
   - /2008/07/to-health-of-vice-consul-of-united.html
-categories:
+tags:
   - My Ridiculously Circuitous Plan
 
 ---

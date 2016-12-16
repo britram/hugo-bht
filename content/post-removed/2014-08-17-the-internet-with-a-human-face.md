@@ -4,7 +4,7 @@ author: brian
 layout: post
 date: 2014-08-17T19:08:32+00:00
 url: /2014/08/the-internet-with-a-human-face/
-categories:
+tags:
   - Geekery
 format: link
 

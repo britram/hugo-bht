@@ -4,7 +4,7 @@ author: brian
 layout: post
 date: 2011-03-10T17:13:04+00:00
 url: /2011/03/one-more-for-the-road/
-categories:
+tags:
   - Photography
 
 ---

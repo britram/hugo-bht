@@ -4,7 +4,7 @@ author: brian
 layout: post
 date: 2015-01-12T16:10:35+00:00
 url: /2015/01/what-kind-of-bureaucracy-are-you-dealing-with/
-categories:
+tags:
   - Nonfiction
 format: aside
 

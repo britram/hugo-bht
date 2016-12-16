@@ -10,7 +10,7 @@ blogger_author:
   - Brian
 blogger_permalink:
   - /2008/12/ich-stcke-heute-nicht-frh.html
-categories:
+tags:
   - My Ridiculously Circuitous Plan
 
 ---

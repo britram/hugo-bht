@@ -4,7 +4,7 @@ author: brian
 layout: post
 date: 2014-03-18T21:06:10+00:00
 url: /2014/03/obere-waid/
-categories:
+tags:
   - Photography
 format: image
 

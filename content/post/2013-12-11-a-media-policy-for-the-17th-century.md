@@ -4,7 +4,7 @@ author: brian
 layout: post
 date: 2013-12-11T14:59:31+00:00
 url: /2013/12/a-media-policy-for-the-17th-century/
-categories:
+tags:
   - Geekery
   - News
   - Switzerland

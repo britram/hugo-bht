@@ -10,7 +10,7 @@ blogger_author:
   - Brian
 blogger_permalink:
   - /2009/08/misaligned.html
-categories:
+tags:
   - News
   - Nonfiction
 

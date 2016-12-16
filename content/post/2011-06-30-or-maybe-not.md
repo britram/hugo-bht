@@ -4,7 +4,7 @@ author: brian
 layout: post
 date: 2011-06-30T08:17:40+00:00
 url: /2011/06/or-maybe-not/
-categories:
+tags:
   - Photography
 
 ---

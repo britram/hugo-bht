@@ -10,7 +10,7 @@ blogger_author:
   - Brian
 blogger_permalink:
   - /2008/04/damn-small-town.html
-categories:
+tags:
   - My Ridiculously Circuitous Plan
 
 ---

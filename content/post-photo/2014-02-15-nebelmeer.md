@@ -4,7 +4,7 @@ author: brian
 layout: post
 date: 2014-02-15T10:45:11+00:00
 url: /2014/02/nebelmeer/
-categories:
+tags:
   - Photography
 format: image
 

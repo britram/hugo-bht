@@ -4,7 +4,7 @@ author: brian
 layout: post
 date: 2011-02-02T08:17:50+00:00
 url: /2011/02/the-end-of-the-free-pool/
-categories:
+tags:
   - Geekery
 
 ---

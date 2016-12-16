@@ -4,7 +4,7 @@ author: brian
 layout: post
 date: 2011-10-11T19:00:46+00:00
 url: /2011/10/the-light-at-the-end/
-categories:
+tags:
   - Nonfiction
   - Photography
 

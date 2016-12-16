@@ -4,7 +4,7 @@ author: brian
 layout: post
 date: 2011-02-15T08:44:35+00:00
 url: /2011/02/sun-goes-down-again/
-categories:
+tags:
   - Photography
 
 ---

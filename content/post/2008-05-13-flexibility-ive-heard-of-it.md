@@ -10,7 +10,7 @@ blogger_author:
   - Brian
 blogger_permalink:
   - /2008/05/flexibility-ive-heard-of-it.html
-categories:
+tags:
   - My Ridiculously Circuitous Plan
 
 ---

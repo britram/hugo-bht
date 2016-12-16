@@ -4,7 +4,7 @@ author: brian
 layout: post
 date: 2014-05-16T09:32:47+00:00
 url: /2014/05/sommer-des-hafenkrans/
-categories:
+tags:
   - Photography
   - Switzerland
 format: image

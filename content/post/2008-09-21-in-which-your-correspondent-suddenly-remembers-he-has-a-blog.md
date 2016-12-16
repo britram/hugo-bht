@@ -10,7 +10,7 @@ blogger_author:
   - Brian
 blogger_permalink:
   - /2008/09/in-which-your-correspondent-suddenly.html
-categories:
+tags:
   - My Ridiculously Circuitous Plan
 
 ---

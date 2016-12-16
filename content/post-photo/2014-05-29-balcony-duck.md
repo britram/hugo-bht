@@ -4,7 +4,7 @@ author: brian
 layout: post
 date: 2014-05-29T06:45:32+00:00
 url: /2014/05/balcony-duck/
-categories:
+tags:
   - Photography
 format: image
 

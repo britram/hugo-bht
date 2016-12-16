@@ -4,7 +4,7 @@ author: brian
 layout: post
 date: 2015-01-06T09:55:49+00:00
 url: /2015/01/the-thinning-fog/
-categories:
+tags:
   - Photography
 format: image
 

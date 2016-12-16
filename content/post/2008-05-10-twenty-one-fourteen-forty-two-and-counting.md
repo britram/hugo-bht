@@ -10,7 +10,7 @@ blogger_author:
   - Brian
 blogger_permalink:
   - /2008/05/twenty-one-fourteen-forty-two-and.html
-categories:
+tags:
   - My Ridiculously Circuitous Plan
 
 ---

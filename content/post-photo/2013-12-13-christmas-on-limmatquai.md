@@ -4,7 +4,7 @@ author: brian
 layout: post
 date: 2013-12-12T23:29:28+00:00
 url: /2013/12/christmas-on-limmatquai/
-categories:
+tags:
   - Photography
   - Switzerland
 format: image

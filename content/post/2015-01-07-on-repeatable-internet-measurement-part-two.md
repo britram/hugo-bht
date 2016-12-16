@@ -4,7 +4,7 @@ author: brian
 layout: post
 date: 2015-01-07T10:00:23+00:00
 url: /2015/01/on-repeatable-internet-measurement-part-two/
-categories:
+tags:
   - Geekery
   - Science
 

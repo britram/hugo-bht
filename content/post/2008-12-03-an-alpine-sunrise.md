@@ -10,7 +10,7 @@ blogger_author:
   - Brian
 blogger_permalink:
   - /2008/12/alpine-sunrise.html
-categories:
+tags:
   - My Ridiculously Circuitous Plan
 
 ---

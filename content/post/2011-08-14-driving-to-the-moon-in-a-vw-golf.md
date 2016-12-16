@@ -4,7 +4,7 @@ author: brian
 layout: post
 date: 2011-08-14T18:01:00+00:00
 url: /2011/08/driving-to-the-moon-in-a-vw-golf/
-categories:
+tags:
   - Photography
   - Switzerland
 

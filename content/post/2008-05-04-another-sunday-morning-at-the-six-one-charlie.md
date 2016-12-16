@@ -10,7 +10,7 @@ blogger_author:
   - Brian
 blogger_permalink:
   - /2008/05/another-sunday-morning-at-six-one.html
-categories:
+tags:
   - My Ridiculously Circuitous Plan
 
 ---

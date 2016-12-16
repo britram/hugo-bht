@@ -4,7 +4,7 @@ author: brian
 layout: post
 date: 2011-02-02T08:41:48+00:00
 url: /2011/02/commuting/
-categories:
+tags:
   - Photography
 format: image
 

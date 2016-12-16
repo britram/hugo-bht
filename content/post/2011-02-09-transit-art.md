@@ -4,7 +4,7 @@ author: brian
 layout: post
 date: 2011-02-09T12:56:58+00:00
 url: /2011/02/transit-art/
-categories:
+tags:
   - Geekery
 
 ---

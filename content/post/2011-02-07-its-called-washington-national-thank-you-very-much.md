@@ -4,7 +4,7 @@ author: brian
 layout: post
 date: 2011-02-07T13:35:18+00:00
 url: /2011/02/its-called-washington-national-thank-you-very-much/
-categories:
+tags:
   - News
 
 ---

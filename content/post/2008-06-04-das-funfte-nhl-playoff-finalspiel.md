@@ -10,7 +10,7 @@ blogger_author:
   - Brian
 blogger_permalink:
   - /2008/06/das-fnfte-nhl-playoff-finalspiel.html
-categories:
+tags:
   - My Ridiculously Circuitous Plan
 
 ---

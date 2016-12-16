@@ -4,7 +4,7 @@ author: brian
 layout: post
 date: 2011-07-04T07:28:52+00:00
 url: /2011/07/the-twenty-seventh-canton/
-categories:
+tags:
   - Photography
   - Switzerland
 

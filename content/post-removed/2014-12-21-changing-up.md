@@ -4,7 +4,7 @@ author: admin
 layout: post
 date: 2014-12-21T16:57:37+00:00
 url: /2014/12/changing-up/
-categories:
+tags:
   - News
 format: aside
 

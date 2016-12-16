@@ -10,7 +10,7 @@ blogger_author:
   - Brian
 blogger_permalink:
   - /2011/02/my-ridiculously-circuitous-plan-is-five.html
-categories:
+tags:
   - News
 
 ---

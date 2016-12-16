@@ -4,7 +4,7 @@ author: brian
 layout: post
 date: 2011-01-31T17:25:17+00:00
 url: /2011/01/portable-cookies/
-categories:
+tags:
   - Cooking
   - Nonfiction
 

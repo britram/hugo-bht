@@ -10,7 +10,7 @@ blogger_author:
   - Brian
 blogger_permalink:
   - /2008/08/color-of-hell.html
-categories:
+tags:
   - My Ridiculously Circuitous Plan
 
 ---

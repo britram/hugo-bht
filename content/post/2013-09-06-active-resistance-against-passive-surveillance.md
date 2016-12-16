@@ -4,7 +4,7 @@ author: brian
 layout: post
 date: 2013-09-06T12:24:44+00:00
 url: /2013/09/active-resistance-against-passive-surveillance/
-categories:
+tags:
   - Geekery
   - News
   - Nonfiction

@@ -4,7 +4,7 @@ author: brian
 layout: post
 date: 2015-12-06T18:37:23+00:00
 url: /2015/12/a-year-in-beer/
-categories:
+tags:
   - Uncategorized
 
 ---

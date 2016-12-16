@@ -4,7 +4,7 @@ author: brian
 layout: post
 date: 2013-12-12T11:36:09+00:00
 url: /2013/12/the-new-ma-bell/
-categories:
+tags:
   - Geekery
   - News
 format: link

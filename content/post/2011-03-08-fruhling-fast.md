@@ -4,7 +4,7 @@ author: brian
 layout: post
 date: 2011-03-08T10:50:24+00:00
 url: /2011/03/fruhling-fast/
-categories:
+tags:
   - Photography
 
 ---

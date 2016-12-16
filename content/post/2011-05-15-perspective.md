@@ -4,7 +4,7 @@ author: brian
 layout: post
 date: 2011-05-15T20:14:24+00:00
 url: /2011/05/perspective/
-categories:
+tags:
   - Nonfiction
 
 ---

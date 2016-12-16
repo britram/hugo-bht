@@ -4,7 +4,7 @@ author: brian
 layout: post
 date: 2011-02-23T10:50:35+00:00
 url: /2011/02/breakfast-deconstructed/
-categories:
+tags:
   - Cooking
   - Photography
 

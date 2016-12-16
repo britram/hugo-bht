@@ -4,7 +4,7 @@ author: brian
 layout: post
 date: 2013-12-25T18:07:37+00:00
 url: /2013/12/merry-christmas-2013/
-categories:
+tags:
   - Photography
   - Switzerland
 format: image

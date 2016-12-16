@@ -4,7 +4,7 @@ author: brian
 layout: post
 date: 2011-11-21T21:36:37+00:00
 url: /2011/11/taipei-for-distracted-beginners/
-categories:
+tags:
   - Nonfiction
 
 ---

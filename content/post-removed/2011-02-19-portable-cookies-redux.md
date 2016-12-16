@@ -4,7 +4,7 @@ author: brian
 layout: post
 date: 2011-02-19T15:01:27+00:00
 url: /2011/02/portable-cookies-redux/
-categories:
+tags:
   - Cooking
   - Photography
 

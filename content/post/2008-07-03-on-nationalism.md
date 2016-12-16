@@ -10,7 +10,7 @@ blogger_author:
   - Brian
 blogger_permalink:
   - /2008/07/on-nationalism.html
-categories:
+tags:
   - My Ridiculously Circuitous Plan
 
 ---

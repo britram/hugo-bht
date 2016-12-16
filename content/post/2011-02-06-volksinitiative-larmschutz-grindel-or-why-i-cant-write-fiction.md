@@ -4,7 +4,7 @@ author: brian
 layout: post
 date: 2011-02-06T20:07:58+00:00
 url: /2011/02/volksinitiative-larmschutz-grindel-or-why-i-cant-write-fiction/
-categories:
+tags:
   - Fiction
 
 ---
