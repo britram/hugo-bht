@@ -16,7 +16,7 @@ Stollen, on the other hand, was the main course of most breakfasts around Christ
 
 So this year I decided to try my hand at tweaking the basic recipe for stollen to see if I could come up with something that tasted like Christmas back home. Starting from a [BBC recipe][1] and editing mainly by omission, this is what I came up with:
 
-<img class="aligncenter size-full wp-image-1235" src="https://trammell.ch/wp-content/uploads/2014/12/IMG_9729.jpg" alt="IMG_9729" width="1024" height="683" srcset="https://trammell.ch/wp-content/uploads/2014/12/IMG_9729.jpg 1024w, https://trammell.ch/wp-content/uploads/2014/12/IMG_9729-480x320.jpg 480w" sizes="(max-width: 1024px) 100vw, 1024px" />
+<img class="aligncenter size-full wp-image-1235" src="/wp/2014/12/IMG_9729.jpg" alt="IMG_9729" width="1024" height="683" srcset="/wp/2014/12/IMG_9729.jpg 1024w, /wp/2014/12/IMG_9729-480x320.jpg 480w" sizes="(max-width: 1024px) 100vw, 1024px" />
 
 ### Ingredients
 

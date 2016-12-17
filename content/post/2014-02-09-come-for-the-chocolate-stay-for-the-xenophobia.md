@@ -20,7 +20,7 @@ The problem with this is that the European Union has made it very clear to anyon
 
 One thing which is certain from simple geography is that Switzerland&#8217;s future lies with the EU (at least exactly as much as the future of the rest of the EU member states lies with the EU):<figure id="attachment_1008" style="width: 364px" class="wp-caption aligncenter">
 
-[<img class="size-full wp-image-1008 " alt="1000px-European_Union_Switzerland_Locator.svg" src="https://trammell.ch/wp-content/uploads/2014/02/1000px-European_Union_Switzerland_Locator.svg_.png" width="364" height="360" />][5]<figcaption class="wp-caption-text">Orange: Switzerland. Green: the European Union. (Source: [Wikipedia][6]; public domain)</figcaption></figure> 
+[<img class="size-full wp-image-1008 " alt="1000px-European_Union_Switzerland_Locator.svg" src="/wp/2014/02/1000px-European_Union_Switzerland_Locator.svg_.png" width="364" height="360" />][5]<figcaption class="wp-caption-text">Orange: Switzerland. Green: the European Union. (Source: [Wikipedia][6]; public domain)</figcaption></figure> 
 
 At least, I&#8217;m pretty sure there&#8217;s not enough geothermal and/or gravitational potential energy in Switzerland&#8217;s mountains and glaciers and/or enough gold of uncertain provenance in its banks to afford to be able to dig a giant ditch at the border, stick rocket engines under the country, and launch it into an ocean in which it could be the literal island its nativist right wing wishes it were.
 
@@ -40,7 +40,7 @@ Over the past five and a half years, Zürich has become my home. Some days I fee
  [2]: http://www.metafilter.com/87041/On-Architectural-Criticism
  [3]: http://en.wikipedia.org/wiki/Switzerland%E2%80%93European_Union_relations
  [4]: http://en.wikipedia.org/wiki/Schengen_Agreement
- [5]: https://trammell.ch/wp-content/uploads/2014/02/1000px-European_Union_Switzerland_Locator.svg_.png
+ [5]: /wp/2014/02/1000px-European_Union_Switzerland_Locator.svg_.png
  [6]: http://en.wikipedia.org/wiki/File:European_Union_Switzerland_Locator.svg
  [7]: http://en.wikipedia.org/wiki/A_Day_Without_a_Mexican
  [8]: https://www.stadt-zuerich.ch/prd/de/index/statistik/bevoelkerung/bevoelkerungsstand.secure.html

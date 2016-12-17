@@ -12,7 +12,7 @@ Wir sind gerade in eine neue Wohnung umgezogen, die in einem alten Industriegebi
 
 <!--more-->
 
-[<img class="alignleft size-medium wp-image-101" title="IMG_3426" src="http://trammell.ch/wp-content/uploads/2011/02/IMG_3426-200x300.jpg" alt="" width="200" height="300" srcset="https://trammell.ch/wp-content/uploads/2011/02/IMG_3426-200x300.jpg 200w, https://trammell.ch/wp-content/uploads/2011/02/IMG_3426.jpg 427w" sizes="(max-width: 200px) 100vw, 200px" />][1]Oft spaziere ich unterwegs zur Tramhaltestelle durch diesen Wald. Es ist hier wegen der Autobahn etwas laut, also trage ich meistens meine Kopfhörer. Vielleicht wurde es desshalb nicht überbaut. „Aussicht auf der Autobahn” vermietet keine Wohnung.
+[<img class="alignleft size-medium wp-image-101" title="IMG_3426" src="http://trammell.ch/wp-content/uploads/2011/02/IMG_3426-200x300.jpg" alt="" width="200" height="300" srcset="/wp/2011/02/IMG_3426-200x300.jpg 200w, /wp/2011/02/IMG_3426.jpg 427w" sizes="(max-width: 200px) 100vw, 200px" />][1]Oft spaziere ich unterwegs zur Tramhaltestelle durch diesen Wald. Es ist hier wegen der Autobahn etwas laut, also trage ich meistens meine Kopfhörer. Vielleicht wurde es desshalb nicht überbaut. „Aussicht auf der Autobahn” vermietet keine Wohnung.
 
 Ein Bächli läuft hierdurch, ein Arm der Glatt, die ein Fluss genannt ist. Ich bin aber bei einem Fluss aufgewachsen, und in Vergleich zum Mississippi ist die Glatt ein Graben. In einem Bogen hat dieses Bächli einen Teich. Hier hat die Stadt Wallisellen ein paar Bänke errichtet, wo man die Natur geniessen kann, während man den Autos zuhört, die unterwegs nach Urdorf oder Dättwil oder Niederbipp oder wer weiss wohin sonst sind. In diesem Teich leben viele Enten.
 

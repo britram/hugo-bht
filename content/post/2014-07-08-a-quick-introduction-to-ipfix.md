@@ -14,7 +14,7 @@ Slides are [here][1], and the notebook is [here][2]. The live version is availab
 
 And as a bonus on the subject, [here&#8217;s][4] a video of me giving an interview about all this last year in Berlin on _way_ too little sleep.
 
- [1]: https://trammell.ch/wp-content/uploads/2014/07/ipfix-short.pdf
+ [1]: /wp/2014/07/ipfix-short.pdf
  [2]: http://nbviewer.ipython.org/github/britram/ipfix-tutorial/blob/master/notebooks/Introducing%20IPFIX.ipynb
  [3]: https://github.com/britram/ipfix-tutorial
  [4]: https://www.youtube.com/watch?v=bMF3coSAl0s

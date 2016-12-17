@@ -15,7 +15,7 @@ tags:
   - Switzerland
 
 ---
-[<img class="alignnone size-full wp-image-1176" src="https://trammell.ch/wp-content/uploads/2009/07/ha2.png" alt="ha2" width="155" height="169" />][1]U+1DE7 COMBINING STACK OF DIAERESIS FALLING RIGHT, used primarily for native English speakers trying to pronounce Swiss German.
+[<img class="alignnone size-full wp-image-1176" src="/wp/2009/07/ha2.png" alt="ha2" width="155" height="169" />][1]U+1DE7 COMBINING STACK OF DIAERESIS FALLING RIGHT, used primarily for native English speakers trying to pronounce Swiss German.
 
 <div>
 </div>
@@ -24,4 +24,4 @@ tags:
   (Yes, I know it&#8217;s been forever. Stand by.)
 </div>
 
- [1]: https://trammell.ch/wp-content/uploads/2009/07/ha2.png
+ [1]: /wp/2009/07/ha2.png

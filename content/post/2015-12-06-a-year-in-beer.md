@@ -27,7 +27,7 @@ The brewery&#8217;s named after a blues club I used to fantasize about opening o
   * Add 15L cold water (16°C) to yield 20L at 20°C
   * Pitch Safale US-05 yeast (11.5g dry, rehydrated for 30min before pitching)
 
-<img class="alignright wp-image-1296 size-medium" src="https://trammell.ch/wp-content/uploads/2015/12/IMG_0812-265x480.jpg" alt="IMG_0812" width="265" height="480" srcset="https://trammell.ch/wp-content/uploads/2015/12/IMG_0812-265x480.jpg 265w, https://trammell.ch/wp-content/uploads/2015/12/IMG_0812.jpg 566w" sizes="(max-width: 265px) 100vw, 265px" />This yielded an measured original gravity of 16.0°P. This seems high; given the content I&#8217;d have expected less than 14°P, so I&#8217;m not sure I trust this measurement (and the result certainly didn&#8217;t have more than 7% ABV). Fermented for 10 days at about 24°C, bottled on 3 March. I intended to mix in 140g of cane sugar for carbonation before bottling, but due to a measurement error ended up with 170g: this is a good deal fizzier than I intended.
+<img class="alignright wp-image-1296 size-medium" src="/wp/2015/12/IMG_0812-265x480.jpg" alt="IMG_0812" width="265" height="480" srcset="/wp/2015/12/IMG_0812-265x480.jpg 265w, /wp/2015/12/IMG_0812.jpg 566w" sizes="(max-width: 265px) 100vw, 265px" />This yielded an measured original gravity of 16.0°P. This seems high; given the content I&#8217;d have expected less than 14°P, so I&#8217;m not sure I trust this measurement (and the result certainly didn&#8217;t have more than 7% ABV). Fermented for 10 days at about 24°C, bottled on 3 March. I intended to mix in 140g of cane sugar for carbonation before bottling, but due to a measurement error ended up with 170g: this is a good deal fizzier than I intended.
 
 It&#8217;s pretty malty, too — the caramel malt adds a lot of body. The hops are there, but very subtle. The maltiness also masks the 6-7% alcohol content, so Traffic Jam can be a little surprising to drink.
 
@@ -35,11 +35,11 @@ It&#8217;s pretty malty, too — the caramel malt adds a lot of body. The hops a
 
 Straight 16 is a proposed departure route for Zurich Airport, the first few kilometers of which are shown on the label.
 
-<img class="aligncenter wp-image-1301 size-full" src="https://trammell.ch/wp-content/uploads/2015/12/straight-16.png" alt="straight-16" width="738" height="81" srcset="https://trammell.ch/wp-content/uploads/2015/12/straight-16.png 738w, https://trammell.ch/wp-content/uploads/2015/12/straight-16-480x53.png 480w" sizes="(max-width: 738px) 100vw, 738px" />
+<img class="aligncenter wp-image-1301 size-full" src="/wp/2015/12/straight-16.png" alt="straight-16" width="738" height="81" srcset="/wp/2015/12/straight-16.png 738w, /wp/2015/12/straight-16-480x53.png 480w" sizes="(max-width: 738px) 100vw, 738px" />
 
 Since that red line continues out over some breathtakingly expensive real estate, I don&#8217;t suspect the proposal will ever come to fruition, so two 380s a day will keep making their hard left turns over the garden. No worries, they&#8217;re a lot of fun to watch.
 
-<img class="aligncenter wp-image-1297 size-medium" src="https://trammell.ch/wp-content/uploads/2015/12/IMG_0821-1-480x241.jpg" alt="IMG_0821 (1)" width="480" height="241" srcset="https://trammell.ch/wp-content/uploads/2015/12/IMG_0821-1-480x241.jpg 480w, https://trammell.ch/wp-content/uploads/2015/12/IMG_0821-1.jpg 1024w" sizes="(max-width: 480px) 100vw, 480px" />
+<img class="aligncenter wp-image-1297 size-medium" src="/wp/2015/12/IMG_0821-1-480x241.jpg" alt="IMG_0821 (1)" width="480" height="241" srcset="/wp/2015/12/IMG_0821-1-480x241.jpg 480w, /wp/2015/12/IMG_0821-1.jpg 1024w" sizes="(max-width: 480px) 100vw, 480px" />
 
 What? Oh, yes, the beer. This is basically the same recipe as Traffic Jam (since I&#8217;m working with the same ingredients), but lighter both in color and gravity, the better to enjoy during the summer, and will different hops (since all of these came in a sampler pack put together by [my brew shop][1], which is why all the quantities top out at 15g.)
 
@@ -56,6 +56,6 @@ Measured initial gravity 11.5°P, which is more believable. Fermented 12 days at
 
 ### What&#8217;s next?
 
-<img class="alignright wp-image-1294 size-medium" src="https://trammell.ch/wp-content/uploads/2015/12/IMG_0864-e1449418889315-212x480.jpg" alt="IMG_0864" width="212" height="480" srcset="https://trammell.ch/wp-content/uploads/2015/12/IMG_0864-e1449418889315-212x480.jpg 212w, https://trammell.ch/wp-content/uploads/2015/12/IMG_0864-e1449418889315.jpg 430w" sizes="(max-width: 212px) 100vw, 212px" />For now, more of the same, as I&#8217;m using up the pile of ingredients I have. Continuing the trend of naming these after mildly annoying things about Wallisellen, the next one (which went into bottles last week) is called November Fog, and is pretty much the halfway point in the parameter space between Traffic Jam and Straight 16, but with more hops (to balance out the high gravity of the boil), and fermented at the 17°C I can provide in the new cellar. It went into the bottle on 28 November, so if it&#8217;s drinkable, it&#8217;ll get a post here in Feburary. If not, we&#8217;ll pretend it never happened.
+<img class="alignright wp-image-1294 size-medium" src="/wp/2015/12/IMG_0864-e1449418889315-212x480.jpg" alt="IMG_0864" width="212" height="480" srcset="/wp/2015/12/IMG_0864-e1449418889315-212x480.jpg 212w, /wp/2015/12/IMG_0864-e1449418889315.jpg 430w" sizes="(max-width: 212px) 100vw, 212px" />For now, more of the same, as I&#8217;m using up the pile of ingredients I have. Continuing the trend of naming these after mildly annoying things about Wallisellen, the next one (which went into bottles last week) is called November Fog, and is pretty much the halfway point in the parameter space between Traffic Jam and Straight 16, but with more hops (to balance out the high gravity of the boil), and fermented at the 17°C I can provide in the new cellar. It went into the bottle on 28 November, so if it&#8217;s drinkable, it&#8217;ll get a post here in Feburary. If not, we&#8217;ll pretend it never happened.
 
  [1]: http://sios.ch
