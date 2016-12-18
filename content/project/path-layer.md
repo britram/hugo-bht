@@ -4,9 +4,9 @@ date: 2016-12-12
 title: The Path Layer
 summary: Can we make the Internet architecture's implicit path layer explicit?
 
-image_preview: bubbles.jpg
+image_preview: path-layer.png
 
-image:
+image: path-layer.png
 
 tags:
   - architecture

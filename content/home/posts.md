@@ -16,7 +16,7 @@ weight = 20
 tags = []
 
 # Number of posts to list.
-count = 5
+count = 10
 
 # Links.
 str_all = "More Posts"
