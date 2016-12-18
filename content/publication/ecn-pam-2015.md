@@ -7,7 +7,7 @@ authors:
   - I. Learmonth
   - G. Fairhurst
   - R. Scheffenegger
-publication: In *Passive and Active Measurement* 2015, Springer LNCS 8995.
+publication: In *Passive and Active Measurement* 2015, Brooklyn, Springer LNCS 8995.
 publication_short: In *PAM* 2015
 date: 2015-03-19
 image: 

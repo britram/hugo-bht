@@ -3,7 +3,7 @@ title = "Inline Data Integrity Signals for Passive Measurement"
 authors = [
   "B. Trammell", "D. Gugelmann", "N. Brownlee"
 ]
-publication = "In Sixth International Workshop on *Traffic Measurement and Analysis*, April 2014, Springer LNCS 8406"
+publication = "In Sixth International Workshop on *Traffic Measurement and Analysis*, London, April 2014, Springer LNCS 8406"
 publication_short = "In *TMA* 2014"
 
 url_pdf = ""
