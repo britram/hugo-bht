@@ -16,7 +16,7 @@ url_pdf = "http://dx.doi.org/10.1109/MIC.2014.91"
 # url_slides = "#"
 # url_video = "#"
 
-abstract = "The Internet's transport layer - the SOCK_STREAM service from TCP and the SOCK_DGRAM service from UDP - has seen little evolution over the past three decades, despite wildly changing requirements. Indeed, the movement of the waist of the protocol stack hourglass from IP up the stack toward HTTP (over TLS) over TCP has combined with a proliferation of middleboxes that make stringent assumptions about the structure of the traffic they will pass to reduce protocol diversity over time. This ossification has reduced our ability to evolve transport protocols to meet these new application requirements. In this work, the authors describe aspects of this problem and propose a solution space and agenda for improving the situation."
+abstract = "A description of the ossification of the Internet's transport layer, and an exploration of possible solutions based on encrypted, UDP-encapsulated transports."
 
 # [[url_custom]]
 # name = "Custom Link"
@@ -24,4 +24,8 @@ abstract = "The Internet's transport layer - the SOCK_STREAM service from TCP an
 
 +++
 
-point out this is the paper that started the SPUD and PLUS efforts, link to PLUS project.
+*Abstract*: The Internet's transport layer - the SOCK_STREAM service from TCP and the SOCK_DGRAM service from UDP - has seen little evolution over the past three decades, despite wildly changing requirements. Indeed, the movement of the waist of the protocol stack hourglass from IP up the stack toward HTTP (over TLS) over TCP has combined with a proliferation of middleboxes that make stringent assumptions about the structure of the traffic they will pass to reduce protocol diversity over time. This ossification has reduced our ability to evolve transport protocols to meet these new application requirements. In this work, the authors describe aspects of this problem and propose a solution space and agenda for improving the situation.
+
+___
+
+This paper led to the [Substrate Protocol for User Datagrams](https://tools.ietf.org/html/draft-trammell-spud-req) and [Path Layer UDP Substrate](https://tools.ietf.org/html/draft-trammell-plus-abstract-mech) BoFs at IETF meetings in Dallas and Berlin, respectively, and the [path layer](/project/path-layer) effort in general. The initial focus on the non-evolvability of the APIs in this paper inspired work on [Post Sockets](project/post-sockets) as well.
