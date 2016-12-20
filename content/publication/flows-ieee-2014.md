@@ -2,7 +2,7 @@
 title = "Flow Monitoring Explained: From Packet Capture to Data Analysis with NetFlow and IPFIX"
 authors = ["R. Hofstede", "P. Celeda", "B. Trammell", "I. Drago", "R. Sadre", "A. Sperotto", "A. Pras"]
 publication = "In *IEEE Communications Surveys and Tutorials*, vol. 16 no. 4, October 2014"
-publication_short = "In *IEEE S&T*"
+publication_short = "In *IEEE S&T*, Oct 2014"
 date = "2014-10-01"
 image = ""
 image_preview = ""

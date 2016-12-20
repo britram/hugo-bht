@@ -5,7 +5,7 @@ authors:
   - S. Neuner
   - B. Trammell
 
-publication: In *Passive and Active Measurement* 2013, Hong Kong.
+publication: In proceedings of the 2013 *Passive and Active Measurement* Conference, Hong Kong, March 2013.
 publication_short: In *PAM* 2013
 date: 2013-03-19
 image: 

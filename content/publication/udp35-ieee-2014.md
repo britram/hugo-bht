@@ -2,7 +2,7 @@
 title = "Evolving Transport in the Internet"
 authors = ["B. Trammell", "J. Hildebrand"]
 publication = "In *IEEE Internet Computing*, vol. 18 no. 5, September 2014"
-publication_short = "In *IEEE Internet Computing*"
+publication_short = "In *IEEE Internet Computing*, Sep. 2014"
 date = "2014-09-01"
 image = ""
 image_preview = ""
