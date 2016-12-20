@@ -1,8 +1,7 @@
 ---
-# Date this page was created.
-date: 2016-12-12
+date: 2016-07-20
 title: The Path Layer
-summary: Can we make the Internet architecture's implicit path layer explicit?
+summary: Making the Internet architecture's implicit path layer explicit.
 
 image_preview: path-layer.png
 
@@ -12,10 +11,9 @@ tags:
   - architecture
 
 math: false
-
 ---
 
-tl;dr: for the current state of this work, read the following Internet-drafts:
+For the current state of this work, read the following Internet-drafts:
 
 - [draft-hardie-path-signals](https://tools.ietf.org/html/draft-hardie-path-signals)
 - [draft-trammell-plus-statefulness](https://tools.ietf.org/html/draft-trammell-plus-statefulness)
@@ -47,5 +45,6 @@ expose different information in its wire image, according to its requirements,
 but defining a small set of common transport-independent wire images would
 significantly ease deployment of future transport protocols.
 
-Current work on the path layer is focused on defining these wire images, and
-experimental implementations thereof.
+Current work on the path layer is focused on 
+[defining these wire images](https://github.com/mami-project/draft-kt-plus-protocol), 
+and experimental implementations thereof.

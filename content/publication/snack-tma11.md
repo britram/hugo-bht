@@ -8,7 +8,7 @@ authors:
   - P. Dorfinger
   - D. Schatzmann
 publication: In Third International Workshop on *Traffic Measurement and Analysis*, Vienna, April 2011, Springer LNCS 8406
-publication_short: In *TMA* 2014
+publication_short: In *TMA* 2011
 
 date: 2011-04-01
 url_pdf: /pdf/snack_final.pdf
