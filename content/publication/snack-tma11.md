@@ -1,5 +1,5 @@
 ---
-title:  Identifying Skype traffic in a large-scale flow data repository, in Proceedings of the Third International Workshop on Traffic Measurement and Analysis (LNCS 6613). Vienna, April 2011.
+title:  Identifying Skype traffic in a large-scale flow data repository
 authors:
   - B. Trammell
   - E. Boschi
