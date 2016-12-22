@@ -4,7 +4,7 @@ date: 2016-12-31T12:00:00
 draft: false
 image:
 tags:
-  - news
+  - News
 math: false
 #url: /2016/12/another-year-another-website-redux
 ---

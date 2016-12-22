@@ -5,16 +5,17 @@ title: Smooth Valley Brewing
 
 summary: Making better Swiss beer, twenty liters at a time.
 
-image_preview: smoothvalley_tja.jpg
+image_preview: 
+image: smoothvalley_tja.jpg
 
-image:
 
 tags: 
   - personal
 
-external_link: http://smoothvalley.trammell.ch
+# external_link: http://smoothvalley.trammell.ch
 
 math: false
 
 ---
 
+I make beer. There will be a different website about that, soon.

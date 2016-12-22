@@ -5,7 +5,7 @@ layout: post
 date: 2015-12-06T18:37:23+00:00
 url: /2015/12/a-year-in-beer/
 tags:
-  - Uncategorized
+  - Cooking
 
 ---
 Wow, that year went quickly, on which more later.

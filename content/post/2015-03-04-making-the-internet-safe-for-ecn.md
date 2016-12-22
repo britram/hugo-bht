@@ -5,7 +5,8 @@ layout: post
 date: 2015-03-04T20:21:03+00:00
 url: /2015/03/making-the-internet-safe-for-ecn/
 tags:
-  - Uncategorized
+  - Geekery
+  - Science
 
 ---
 I&#8217;m off to New York in a couple of weeks to present a [paper][1] at PAM (which I mentioned [here][2], though sadly the flashy automated demo I was hoping to build was a bit optimistic). The question: &#8220;is it safe to turn on [ECN][3] on client machines by default, completing the end to end deployment of a simple fifteen year old protocol to give us a better way to signal network congestion than simply dropping packets on the floor?&#8221; The answer is: &#8220;define safe.&#8221; Our key findings:<!--more-->
