@@ -1,4 +1,6 @@
-baseurl = "https://example.com"
+# is a baseurl really necessary?
+baseurl = "/"
+
 title = "Brian Trammell"
 copyright = "&copy; 2016 Brian Trammell"
 languageCode = "en-us"
