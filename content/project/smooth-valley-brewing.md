@@ -18,4 +18,4 @@ math: false
 
 ---
 
-I make beer. There will be a different website about that, soon.
+I make beer. I'm making a website about the beer I make. It's not ready yet.

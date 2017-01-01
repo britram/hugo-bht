@@ -41,4 +41,4 @@ architecture, Internet measurement, and the evolution of Internet protocols.
 
 He is a member of the [Networked Systems](https://www.csg.ethz.ch) and [Network Security](http://netsec.ethz.ch) groups at ETH Zürich, measurement lead for the Horizon 2020 [Measurement and Architecture for a Middleboxed Internet](https://mami-project.eu) project, co-chair of the [Internet Engineering Task Force](https://ietf.org) [IP Performance Metrics](https://datatracker.ietf.org/wg/ippm) working group, and a member of the [Internet Architecture Board](https://iab.org/). 
 
-He is a recovering network security geek and software engineer, and also an avid photographer, home brewer, and fairweather cyclist.
+He is a recovering network security geek and software engineer, and also an avid photographer, home [brewer](/project/smooth-valley-brewing/), and fairweather [cyclist](/2013/12/from-france-to-austria/).

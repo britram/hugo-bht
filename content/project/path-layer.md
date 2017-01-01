@@ -18,6 +18,7 @@ For the current state of this work, read the following Internet-drafts:
 - [draft-hardie-path-signals](https://tools.ietf.org/html/draft-hardie-path-signals)
 - [draft-trammell-plus-statefulness](https://tools.ietf.org/html/draft-trammell-plus-statefulness)
 - [draft-trammell-plus-abstract-mech](https://tools.ietf.org/html/draft-trammell-plus-abstract-mech)
+- [draft-trammell-plus-spec](https://tools.ietf.org/html/draft-trammell-plus-spec)
 
 Starting with a simple question about [evolving the transport stack](/publication/udp35-ieee-2014/), 
 leading to half of the scope of the 
@@ -46,5 +47,5 @@ but defining a small set of common transport-independent wire images would
 significantly ease deployment of future transport protocols.
 
 Current work on the path layer is focused on 
-[defining these wire images](https://github.com/mami-project/draft-kt-plus-protocol), 
+[defining these wire images](https://tools.ietf.org/html/draft-trammell-plus-spec), 
 and experimental implementations thereof.
