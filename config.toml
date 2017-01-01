@@ -66,6 +66,11 @@ googleAnalytics = ""
     link = "mailto:brian@trammell.ch"
 
   [[params.social]]
+    icon = "github"
+    icon_pack = "fa"
+    link = "//github.com/britram"
+
+  [[params.social]]
     icon = "twitter"
     icon_pack = "fa"
     link = "//twitter.com/britram"
@@ -76,10 +81,14 @@ googleAnalytics = ""
     link = "https://scholar.google.ch/citations?user=vTA2dL0AAAAJ&hl=en"
 
   [[params.social]]
-    icon = "github"
-    icon_pack = "fa"
-    link = "//github.com/britram"
+    icon = "orcid"
+    icon_pack = "ai"
+    link = "//orcid.org/0000-0002-9532-5945"
 
+  [[params.social]]
+    icon = "linkedin"
+    icon_pack = "fa"
+    link = "//www.linkedin.com/in/britram"
 
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
