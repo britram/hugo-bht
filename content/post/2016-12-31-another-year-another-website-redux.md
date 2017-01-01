@@ -27,6 +27,6 @@ Most of this has been professional, but the
 Details for geeks: I've ditched Wordpress for Hugo and Apache for nginx.
 Markdown and [GitHub](https://github.com/britram/hugo-bht) make a better
 backend for blogging than MySQL and a WYSIKWYG editor in the browser. The
-nginx thing was more of a whim. The conversion from Wordpress has a couple of
-rough spots that I'll be fixing piecemeal over the coming
-`$long_time_interval`.
+conversion from Wordpress has a couple of rough spots that I'll be fixing
+piecemeal over the coming `$long_time_interval`. The nginx thing was more of a
+whim.
