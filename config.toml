@@ -38,7 +38,7 @@ googleAnalytics = ""
 
   # Link custom CSS and JS assets
   #   (relative to /static/css and /static/js respectively)
-  custom_css = []
+  custom_css = ["orange.css"]
   custom_js  = []
 
 
