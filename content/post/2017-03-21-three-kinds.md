@@ -1,10 +1,10 @@
 ---
 title: Three Kinds of People
 date: 2017-03-21T22:00:00
-draft: true
-image:
+draft: false
+image: sarnersee-0.jpg
 tags:
-  - News
+  - Nonfiction
 math: false
 ---
 
