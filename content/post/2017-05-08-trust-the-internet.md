@@ -1,7 +1,7 @@
 ---
 title: What does it mean to trust the Internet?
 date: 2017-05-08T08:00:00
-draft: true
+draft: false
 tags:
   - Geekery
 math: false
