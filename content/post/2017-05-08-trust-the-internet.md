@@ -72,7 +72,7 @@ protocols probably need knobs that are finer-grained than those we have in order
 to find the right balance.
 
 All of which we may or may not get into during Tuesday's talk. In any case, if
-you're in Zürich, and this is in the least bit interesting to you, please do
+you're in Zürich, and this is at least a little interesting to you, please do
 drop by at 17:30 Tuesday 9 May, ETH Main Building, room HG G60.
 
 - - - 
