@@ -7,7 +7,7 @@ authors:
   - B. Donnet
 publication: In proceedings of the second ACM/IRTF *Applied Networking Research Workshop*, Prague, July 2016.
 publication_short: In *ANRW* 2017
-date: 2016-07-15
+date: 2017-07-15
 image: 
 image_preview: 
 math: false
