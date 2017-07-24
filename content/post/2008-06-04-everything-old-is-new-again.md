@@ -3,7 +3,7 @@ title: Everything Old is New Again
 author: brian
 layout: post
 date: 2008-06-04T18:18:00+00:00
-url: /2008/06/everything-old-is-new-again/
+
 blogger_blog:
   - ridiculouslycircuitous.blogspot.com
 blogger_author:

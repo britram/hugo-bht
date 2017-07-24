@@ -3,7 +3,7 @@ title: As Promised
 author: brian
 layout: post
 date: 2008-08-22T06:31:00+00:00
-url: /2008/08/as-promised/
+
 blogger_blog:
   - ridiculouslycircuitous.blogspot.com
 blogger_author:

@@ -3,7 +3,7 @@ title: The Zürich Model and the Domestic Audience
 author: brian
 layout: post
 date: 2011-07-04T21:36:10+00:00
-url: /2011/07/the-zurich-model-and-the-domestic-audience/
+
 tags:
   - Nonfiction
   - Switzerland

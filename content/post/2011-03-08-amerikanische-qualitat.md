@@ -3,7 +3,7 @@ title: Amerikanische Qualität
 author: brian
 layout: post
 date: 2011-03-08T21:30:09+00:00
-url: /2011/03/amerikanische-qualitat/
+
 tags:
   - News
 

@@ -3,7 +3,7 @@ title: The End of the Free Pool
 author: brian
 layout: post
 date: 2011-02-02T08:17:50+00:00
-url: /2011/02/the-end-of-the-free-pool/
+
 tags:
   - Geekery
 

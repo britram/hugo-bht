@@ -3,7 +3,7 @@ title: A Tiny Rant on Mail
 author: brian
 layout: post
 date: 2015-01-02T14:49:49+00:00
-url: /2015/01/a-tiny-rant-on-mail/
+
 tags:
   - Geekery
 format: aside

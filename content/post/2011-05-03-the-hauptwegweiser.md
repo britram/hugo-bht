@@ -3,7 +3,7 @@ title: The Hauptwegweiser
 author: brian
 layout: post
 date: 2011-05-03T15:41:38+00:00
-url: /2011/05/the-hauptwegweiser/
+
 tags:
   - Nonfiction
   - Switzerland

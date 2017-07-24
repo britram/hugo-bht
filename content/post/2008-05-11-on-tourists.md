@@ -3,7 +3,7 @@ title: On Tourists
 author: brian
 layout: post
 date: 2008-05-11T18:54:00+00:00
-url: /2008/05/on-tourists/
+
 blogger_blog:
   - ridiculouslycircuitous.blogspot.com
 blogger_author:

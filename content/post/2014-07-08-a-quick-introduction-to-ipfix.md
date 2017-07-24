@@ -3,7 +3,7 @@ title: A quick introduction to IPFIX
 author: brian
 layout: post
 date: 2014-07-08T13:55:52+00:00
-url: /2014/07/a-quick-introduction-to-ipfix/
+
 tags:
   - Geekery
 

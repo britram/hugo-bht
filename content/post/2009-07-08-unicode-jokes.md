@@ -3,7 +3,7 @@ title: Unicode jokes
 author: brian
 layout: post
 date: 2009-07-08T05:37:00+00:00
-url: /2009/07/unicode-jokes/
+
 blogger_blog:
   - ridiculouslycircuitous.blogspot.com
 blogger_author:

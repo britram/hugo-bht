@@ -3,7 +3,7 @@ title: Misaligned
 author: brian
 layout: post
 date: 2009-08-26T18:04:00+00:00
-url: /2009/08/misaligned/
+
 blogger_blog:
   - ridiculouslycircuitous.blogspot.com
 blogger_author:

@@ -3,7 +3,7 @@ title: Insel Schweiz
 author: brian
 layout: post
 date: 2014-02-10T14:27:21+00:00
-url: /2014/02/insel-schweiz/
+
 tags:
   - Fiction
   - News

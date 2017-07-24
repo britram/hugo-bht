@@ -3,7 +3,7 @@ title: On Luck (or, The Apartment Search, Volume One)
 author: brian
 layout: post
 date: 2008-06-25T09:12:00+00:00
-url: /2008/06/on-luck-or-the-apartment-search-volume-one/
+
 blogger_blog:
   - ridiculouslycircuitous.blogspot.com
 blogger_author:

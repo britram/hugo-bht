@@ -3,7 +3,7 @@ title: A Farewell to Pittsburgh
 author: brian
 layout: post
 date: 2008-05-27T23:26:00+00:00
-url: /2008/05/a-farewell-to-pittsburgh/
+
 blogger_blog:
   - ridiculouslycircuitous.blogspot.com
 blogger_author:

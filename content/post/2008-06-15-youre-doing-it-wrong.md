@@ -3,7 +3,7 @@ title: You’re Doing It Wrong
 author: brian
 layout: post
 date: 2008-06-15T09:11:00+00:00
-url: /2008/06/youre-doing-it-wrong/
+
 blogger_blog:
   - ridiculouslycircuitous.blogspot.com
 blogger_author:

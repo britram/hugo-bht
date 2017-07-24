@@ -3,7 +3,7 @@ title: Post-ideology, or why your favorite team sucks
 author: brian
 layout: post
 date: 2011-06-03T21:08:45+00:00
-url: /2011/06/post-ideology-or-why-your-favorite-team-sucks/
+
 tags:
   - Nonfiction
 

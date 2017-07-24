@@ -3,7 +3,7 @@ title: Flexibility, I’ve Heard of It
 author: brian
 layout: post
 date: 2008-05-13T00:49:00+00:00
-url: /2008/05/flexibility-ive-heard-of-it/
+
 blogger_blog:
   - ridiculouslycircuitous.blogspot.com
 blogger_author:

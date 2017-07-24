@@ -3,7 +3,7 @@ title: An Alpine Sunrise
 author: brian
 layout: post
 date: 2008-12-03T06:22:00+00:00
-url: /2008/12/an-alpine-sunrise/
+
 blogger_blog:
   - ridiculouslycircuitous.blogspot.com
 blogger_author:

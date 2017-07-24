@@ -3,7 +3,7 @@ title: Is Traffic Traffic?
 author: brian
 layout: post
 date: 2013-12-19T08:53:35+00:00
-url: /2013/12/is-traffic-traffic/
+
 tags:
   - Geekery
   - News

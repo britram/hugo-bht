@@ -3,7 +3,7 @@ title: The Measure of a State
 author: brian
 layout: post
 date: 2014-08-31T09:14:10+00:00
-url: /2014/08/the-measure-of-a-state/
+
 tags:
   - Nonfiction
 

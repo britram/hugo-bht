@@ -3,7 +3,7 @@ title: Once More Onto the Blog
 author: brian
 layout: post
 date: 2008-04-15T23:33:00+00:00
-url: /2008/04/once-more-onto-the-blog/
+
 blogger_blog:
   - ridiculouslycircuitous.blogspot.com
 blogger_author:

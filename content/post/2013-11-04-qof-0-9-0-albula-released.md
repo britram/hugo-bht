@@ -3,7 +3,7 @@ title: QoF 0.9.0 (“Albula”) released
 author: brian
 layout: post
 date: 2013-11-04T15:09:31+00:00
-url: /2013/11/qof-0-9-0-albula-released/
+
 tags:
   - Geekery
   - News

@@ -3,7 +3,7 @@ title: Ten years on
 author: brian
 layout: post
 date: 2011-09-11T06:00:46+00:00
-url: /2011/09/ten-years-on/
+
 tags:
   - Nonfiction
 
