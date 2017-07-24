@@ -1,7 +1,7 @@
 ---
 title: On Nationalism
 author: brian
-layout: post
+
 date: 2008-07-03T06:22:00+00:00
 url: /2008/07/on-nationalism/
 blogger_blog:

@@ -1,7 +1,7 @@
 ---
 title: In A Moving State Of Mind
 author: brian
-layout: post
+
 date: 2008-05-23T03:29:00+00:00
 url: /2008/05/in-a-moving-state-of-mind/
 blogger_blog:

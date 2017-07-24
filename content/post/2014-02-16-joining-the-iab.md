@@ -1,7 +1,7 @@
 ---
 title: Joining the IAB
 author: brian
-layout: post
+
 date: 2014-02-16T14:29:07+00:00
 url: /2014/02/joining-the-iab/
 tags:

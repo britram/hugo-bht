@@ -1,7 +1,7 @@
 ---
 title: A Degenerate Binary Tree
 author: brian
-layout: post
+
 date: 2014-08-31T09:27:50+00:00
 url: /2014/08/a-degenerate-binary-tree/
 image: Degenerate-Binary-Tree.jpg

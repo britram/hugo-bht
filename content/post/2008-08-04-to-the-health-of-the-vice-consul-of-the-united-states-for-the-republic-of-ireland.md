@@ -1,7 +1,7 @@
 ---
 title: To the Health of the Vice Consul of the United States for the Republic of Ireland
 author: brian
-layout: post
+
 date: 2008-08-04T07:45:00+00:00
 url: /2008/08/to-the-health-of-the-vice-consul-of-the-united-states-for-the-republic-of-ireland/
 blogger_blog:

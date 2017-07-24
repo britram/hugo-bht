@@ -1,7 +1,7 @@
 ---
 title: We Have Keys
 author: brian
-layout: post
+
 date: 2008-07-15T12:16:00+00:00
 url: /2008/07/we-have-keys/
 blogger_blog:

@@ -1,7 +1,7 @@
 ---
 title: Another Sunday morning at the Six One Charlie
 author: brian
-layout: post
+
 date: 2008-05-04T11:48:00+00:00
 url: /2008/05/another-sunday-morning-at-the-six-one-charlie/
 blogger_blog:

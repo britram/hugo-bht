@@ -1,7 +1,7 @@
 ---
 title: Twenty-one Fourteen Forty-two and Counting
 author: brian
-layout: post
+
 date: 2008-05-10T14:07:00+00:00
 url: /2008/05/twenty-one-fourteen-forty-two-and-counting/
 blogger_blog:

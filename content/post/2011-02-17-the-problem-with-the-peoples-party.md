@@ -1,7 +1,7 @@
 ---
 title: The Problem with the People’s Party
 author: brian
-layout: post
+
 date: 2011-02-17T19:43:14+00:00
 url: /2011/02/the-problem-with-the-peoples-party/
 tags:

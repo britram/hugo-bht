@@ -1,7 +1,7 @@
 ---
 title: In Which Your Correspondent Suddenly Remembers He Has a Blog
 author: brian
-layout: post
+
 date: 2008-09-21T17:29:00+00:00
 url: /2008/09/in-which-your-correspondent-suddenly-remembers-he-has-a-blog/
 blogger_blog:

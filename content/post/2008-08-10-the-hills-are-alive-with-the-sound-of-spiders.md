@@ -1,7 +1,7 @@
 ---
 title: The Hills are Alive with the Sound of Spiders
 author: brian
-layout: post
+
 date: 2008-08-10T07:11:00+00:00
 url: /2008/08/the-hills-are-alive-with-the-sound-of-spiders/
 blogger_blog:

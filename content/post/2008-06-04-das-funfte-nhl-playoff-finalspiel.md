@@ -1,7 +1,7 @@
 ---
 title: das fünfte NHL-Playoff-Finalspiel
 author: brian
-layout: post
+
 date: 2008-06-04T19:02:00+00:00
 url: /2008/06/das-funfte-nhl-playoff-finalspiel/
 blogger_blog:

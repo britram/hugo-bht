@@ -1,7 +1,7 @@
 ---
 title: Home Sweet Home
 author: brian
-layout: post
+
 date: 2008-07-25T08:46:00+00:00
 url: /2008/07/home-sweet-home/
 blogger_blog:

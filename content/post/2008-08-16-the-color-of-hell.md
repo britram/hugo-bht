@@ -1,7 +1,7 @@
 ---
 title: The Color of Hell
 author: brian
-layout: post
+
 date: 2008-08-16T09:50:00+00:00
 url: /2008/08/the-color-of-hell/
 blogger_blog:

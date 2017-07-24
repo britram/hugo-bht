@@ -1,7 +1,7 @@
 ---
 title: Bagels, redux
 author: brian
-layout: post
+
 date: 2011-12-04T20:32:33+00:00
 url: /2011/12/bagels-redux/
 tags:

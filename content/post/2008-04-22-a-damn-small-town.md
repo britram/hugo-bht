@@ -1,7 +1,7 @@
 ---
 title: A Damn Small Town
 author: brian
-layout: post
+
 date: 2008-04-22T02:41:00+00:00
 url: /2008/04/a-damn-small-town/
 blogger_blog:

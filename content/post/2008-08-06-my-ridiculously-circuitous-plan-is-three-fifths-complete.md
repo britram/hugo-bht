@@ -1,7 +1,7 @@
 ---
 title: My Ridiculously Circuitous Plan is Three-Fifths Complete
 author: brian
-layout: post
+
 date: 2008-08-06T06:02:00+00:00
 url: /2008/08/my-ridiculously-circuitous-plan-is-three-fifths-complete/
 blogger_blog:

@@ -1,7 +1,7 @@
 ---
 title: The Freedom Panopticon
 author: brian
-layout: post
+
 date: 2013-08-29T14:37:09+00:00
 url: /2013/08/the-freedom-panopticon/
 tags:

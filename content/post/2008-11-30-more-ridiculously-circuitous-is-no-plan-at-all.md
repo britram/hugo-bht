@@ -1,7 +1,7 @@
 ---
 title: More Ridiculously Circuitous is No Plan at All
 author: brian
-layout: post
+
 date: 2008-11-30T00:02:00+00:00
 url: /2008/11/more-ridiculously-circuitous-is-no-plan-at-all/
 blogger_blog:

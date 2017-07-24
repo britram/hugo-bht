@@ -1,7 +1,7 @@
 ---
 title: Portrait of a Coffee Machine
 author: brian
-layout: post
+
 date: 2011-02-20T18:33:05+00:00
 url: /2011/02/portrait-of-a-coffee-machine/
 tags:

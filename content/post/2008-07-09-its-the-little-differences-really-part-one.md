@@ -1,7 +1,7 @@
 ---
 title: It’s The Little Differences, Really, Part One
 author: brian
-layout: post
+
 date: 2008-07-09T06:59:00+00:00
 url: /2008/07/its-the-little-differences-really-part-one/
 blogger_blog:
