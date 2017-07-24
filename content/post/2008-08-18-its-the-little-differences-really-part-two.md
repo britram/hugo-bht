@@ -3,7 +3,7 @@ title: It’s The Little Differences, Really, Part Two
 author: brian
 layout: post
 date: 2008-08-18T21:46:00+00:00
-
+url: /2008/08/its-the-little-differences-really-part-two/
 blogger_blog:
   - ridiculouslycircuitous.blogspot.com
 blogger_author:

@@ -3,7 +3,7 @@ title: From France to Austria
 author: brian
 layout: post
 date: 2013-12-09T17:27:15+00:00
-
+url: /2013/12/from-france-to-austria/
 tags:
   - Nonfiction
   - Switzerland

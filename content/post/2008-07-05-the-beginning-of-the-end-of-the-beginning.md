@@ -3,7 +3,7 @@ title: The Beginning of the End of the Beginning
 author: brian
 layout: post
 date: 2008-07-05T06:59:00+00:00
-
+url: /2008/07/the-beginning-of-the-end-of-the-beginning/
 blogger_blog:
   - ridiculouslycircuitous.blogspot.com
 blogger_author:

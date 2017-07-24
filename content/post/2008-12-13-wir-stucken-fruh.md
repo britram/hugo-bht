@@ -3,7 +3,7 @@ title: Wir stücken früh
 author: brian
 layout: post
 date: 2008-12-13T14:28:00+00:00
-
+url: /2008/12/wir-stucken-fruh/
 blogger_blog:
   - ridiculouslycircuitous.blogspot.com
 blogger_author:

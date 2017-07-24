@@ -3,7 +3,7 @@ title: 'On Repeatable Internet Measurement: Part One'
 author: brian
 layout: post
 date: 2014-12-21T21:50:10+00:00
-
+url: /2014/12/on-repeatable-internet-measurement-part-one/
 tags:
   - Geekery
   - Science

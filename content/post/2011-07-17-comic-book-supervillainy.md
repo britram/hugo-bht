@@ -3,7 +3,7 @@ title: Comic-Book Supervillainy
 author: brian
 layout: post
 date: 2011-07-17T10:17:15+00:00
-
+url: /2011/07/comic-book-supervillainy/
 tags:
   - Nonfiction
   - Switzerland

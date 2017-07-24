@@ -3,7 +3,7 @@ title: On Network Neutrality
 author: brian
 layout: post
 date: 2013-02-09T14:11:13+00:00
-
+url: /2013/02/on-network-neutrality/
 tags:
   - Geekery
   - Nonfiction

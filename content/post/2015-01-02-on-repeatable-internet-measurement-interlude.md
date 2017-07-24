@@ -3,7 +3,7 @@ title: 'On Repeatable Internet Measurement: Interlude'
 author: brian
 layout: post
 date: 2015-01-02T15:44:04+00:00
-
+url: /2015/01/on-repeatable-internet-measurement-interlude/
 tags:
   - Geekery
   - Science

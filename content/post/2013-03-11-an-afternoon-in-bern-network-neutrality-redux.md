@@ -3,7 +3,7 @@ title: 'An Afternoon In Bern: Network Neutrality Redux'
 author: brian
 layout: post
 date: 2013-03-11T10:34:25+00:00
-
+url: /2013/03/an-afternoon-in-bern-network-neutrality-redux/
 tags:
   - Geekery
   - Switzerland

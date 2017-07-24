@@ -3,7 +3,7 @@ title: grüezi, y’all
 author: brian
 layout: post
 date: 2011-01-28T10:31:32+00:00
-
+url: /2011/01/gruezi-yall/
 tags:
   - News
 
