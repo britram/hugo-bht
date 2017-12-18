@@ -15,6 +15,7 @@ tags:
 math: false
 
 ---
+![Switzerland in a Boat](/img/inerem-schiffli.jpg)
 
 I spend less time in my kayak than I used to, but writing a guide to sea kayaking in Switzerland remains on my list of things to do in my Copious Free Time. For now, have a look at the first and only installment:
 

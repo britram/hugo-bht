@@ -7,6 +7,7 @@ tags:
   - Nonfiction
 math: false
 ---
+![Lake Sarnen](/img/sarnersee-0.jpg)
 
 On the shores of Lake Sarnen in central Switzerland, there's a museli factory.
 (Of course there is.) It makes many different kinds of muesli for various

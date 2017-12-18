@@ -11,6 +11,8 @@ tags:
   - Photography
 
 ---
+![A Degenerate Binary Tree](/img/Degenerate-Binary-Tree.jpg)
+
 Shamelessly inspired by [Alexander Calder][2], who I followed from [Atlanta][3] to [Pittsburgh][4] to [Zürich][5], and inexpertly crafted from stuff I found at Migros, I present my first attempt at a mobile.
 
 (And for those of you who have not yet heard, yes, this commission has a customer: we&#8217;re expecting a daughter in a few weeks. We won&#8217;t be boring the Internet at large with piles of baby pictures, though.)

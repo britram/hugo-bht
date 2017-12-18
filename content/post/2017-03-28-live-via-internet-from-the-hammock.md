@@ -7,6 +7,7 @@ tags:
   - Geekery
 math: false
 ---
+![live from the hammock](/img/ietf98-hammock.jpg)
 
 Internet architecture and Internet-centered research being a global enterprise,
 I spend between four and seven weeks a year on the road, depending on which

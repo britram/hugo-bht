@@ -18,4 +18,4 @@ math: false
 
 ---
 
-The [MAMI project](https://mami-project.eu) is what I spend most of my time on at the office, until mid-2018. My work on the [Path Layer](/project/pathlayer) and the PLUS protocol to implement it, [PathSpider](https://pathspider.net/) and the measurements performed with it, and the [Path Transparency Observatory](https://observatory.mami-project.eu) happens within MAMI.
+The [MAMI project](https://mami-project.eu) is what I spend most of my time on at the office, until mid-2018. My work on the [Path Layer](/project/path-layer) and the PLUS protocol to implement it, [PathSpider](https://pathspider.net/) and the measurements performed with it, and the [Path Transparency Observatory](https://observatory.mami-project.eu) happens within MAMI.

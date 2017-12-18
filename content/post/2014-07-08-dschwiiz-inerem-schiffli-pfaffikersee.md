@@ -10,6 +10,8 @@ tags:
   - Switzerland
 
 ---
+![Lake Pfäffikon](/img/pfaeffikersee-1.jpg)
+
 So it hasn&#8217;t been all work: the weather (though it&#8217;s tragic today) has cooperated with my calendar on occasion, and I&#8217;ve had a few chances to throw the boat on the water. So this begins what I home will become an occasional series on paddling around Switzerland with a sea kayak.
 
 The weekend before last, I decided to try out the Pfäffikersee (&#8220;Lake Pfäffikon&#8221;, though the lake isn&#8217;t really big enough to warrant a translation). At 2500m x 1200m, it&#8217;s possible to do a full roundtrip around the lake in about an hour without pushing too hard.

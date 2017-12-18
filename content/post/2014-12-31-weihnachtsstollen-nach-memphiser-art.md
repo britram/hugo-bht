@@ -9,6 +9,8 @@ tags:
   - Cooking
 
 ---
+![Stollen](/img/stollen.jpg)
+
 In the back of the pantry at the house I grew up in in Memphis, there was always a stack of little plastic tubs of dried candied &#8220;fruits&#8221; of various colors (I say &#8220;colors&#8221; because the flavor was invariably &#8220;sugar&#8221;). My mother was never much of a baker, except at Christmas, when the baking would take two forms: fruitcake and stollen, both of which were filled with candied fruit. I&#8217;d try Mom&#8217;s fruitcake, the main ingredient of which seemed to be brandy, about once every five years to see if I was finally old enough to enjoy it. I never quite made it.
 
 Stollen, on the other hand, was the main course of most breakfasts around Christmas. This was a bit odd in Memphis, doubly so because we didn&#8217;t have any particularly German ancestors; Mom just saw the recipe in a magazine sometime in the late 70s or early 80s and decided to make a tradition out of it. So I was thrilled when I moved to Switzerland and found out you could buy stollen in the grocery store at Christmastime. Almost as thrilled as I was disappointed when I found out that &#8220;real&#8221; Stollen is basically a marzipan delivery system.

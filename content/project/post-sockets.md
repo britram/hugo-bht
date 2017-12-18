@@ -10,8 +10,7 @@ image:
 tags:
   - architecture
 
-external_link: https://tools.ietf.org/html/draft-trammell-post-sockets
-
+external_link: https://mami-project.github.io/draft-trammell-post-sockets/draft-trammell-taps-post-sockets.html
 math: false
 ---
 

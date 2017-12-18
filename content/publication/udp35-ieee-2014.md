@@ -7,7 +7,7 @@ publication: In *IEEE Internet Computing*, vol. 18 no. 5, September 2014
 publication_short: In *IEEE Internet Computing*, Sep. 2014
 date: 2014-09-01
 math: false
-selected: true
+selected: false
 
 url_pdf: http://dx.doi.org/10.1109/MIC.2014.91
 
