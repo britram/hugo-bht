@@ -12,7 +12,7 @@ but today seems as good a day as any to try. Today was an _Abstimmungssonntag_
 ("referendum Sunday") here, and the most important question before Switzerland
 at the national level was a revocation of the federal government's authority
 to levy a compulsory television and radio fee: NoBillag. I've [already
-written](2018-01-17-on-billag) about this referendum, and how it represented
+written](/post/2018-01-17-on-billag) about this referendum, and how it represented
 not a mere return of four hundred francs per year to every household, not a
 mere privatization of a few television and radio stations (one of which I'm
 listening to [right now](http://www.radioswissjazz.ch/en)), but a frontal
