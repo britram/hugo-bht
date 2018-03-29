@@ -43,7 +43,7 @@ This article attempts to present one such less cynical view.
 
 Those of us who work with Internet infrastructure have had decades to get used
 to the idea that what you see in a protocol's headers, on the wire, is what
-you get. This is a  IP and TCP, as Geoff points out, expose all the
+you get. IP and TCP, as Geoff points out, expose all the
 information required by their operation to any observer along the path, which
 can leak sensitive, user-linked metadata. TCP options and timestamp rate
 drift, for example, can be used as part of relatively unique device
