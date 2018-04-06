@@ -24,6 +24,8 @@ details of how it works or why it matters here; read the draft or [watch the
 presentation](https://www.youtube.com/watch?v=TQq6Z4_HBaY&feature=youtu.be&t=1276)
 for that. 
 
+![the spin bit](/img/spinbit.png)
+
 It's taken about a year of discussion and research to refine the proposal to
 add this facility to the
 [QUIC](https://datatracker.ietf.org/doc/draft-ietf-quic-transport) protocol,
